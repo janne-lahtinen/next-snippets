@@ -1,3 +1,9 @@
+# A rehearsal from the Next JS: The Complete Developer's Guide course
+
+An app for saving code snippets. It uses Prisma for db.
+
+-----------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
